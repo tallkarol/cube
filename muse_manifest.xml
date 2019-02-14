@@ -1,0 +1,239 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cubekaraoke.com" resolutions="1x" timestamp="1550126472647">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_master.css" crc="3814950475" ref="key-personnel:index:progress:opportunity:columbus,-oh:concept:contact:brand:personality"/>
+    <file name="key-personnel.css" crc="3869079198" ref="key-personnel"/>
+    <file name="iefonts_key-personnel.css" crc="3847983806" ref="key-personnel"/>
+    <file name="index.css" crc="4000377982" ref="index"/>
+    <file name="iefonts_index.css" crc="3798489030" ref="index"/>
+    <file name="progress.css" crc="4206852768" ref="progress"/>
+    <file name="iefonts_progress.css" crc="421999459" ref="progress"/>
+    <file name="opportunity.css" crc="3396730" ref="opportunity"/>
+    <file name="iefonts_opportunity.css" crc="110750256" ref="opportunity"/>
+    <file name="columbus_-oh.css" crc="488344539" ref="columbus,-oh"/>
+    <file name="iefonts_columbus_-oh.css" crc="4277944751" ref="columbus,-oh"/>
+    <file name="concept.css" crc="494178572" ref="concept"/>
+    <file name="iefonts_concept.css" crc="471610187" ref="concept"/>
+    <file name="contact.css" crc="384924578" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3867547733" ref="contact"/>
+    <file name="brand.css" crc="533032931" ref="brand"/>
+    <file name="iefonts_brand.css" crc="4143049454" ref="brand"/>
+    <file name="personality.css" crc="4207273656" ref="personality"/>
+    <file name="iefonts_personality.css" crc="4212850132" ref="personality"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="museutils.js" crc="340535759" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="museconfig.js" crc="310584261" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="jquery.watch.js" crc="51536988" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="require.js" crc="7928878" ref="tablet>index:tablet>home:tablet>opportunity:tablet>related-media:tablet>concept:tablet>overview:tablet>points-of-difference:tablet>brand:tablet>identity:tablet>personality:tablet>key-personnel:tablet>progress:tablet>columbus:tablet>photos:tablet>videos:tablet>contact:tablet>request-info:tablet>get-involved:index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="webpro.js" crc="4059564322" ref="index:opportunity:progress:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:opportunity:progress"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:opportunity:progress"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:opportunity:progress"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u4700.php" crc="227521447" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="square-patterned.png" crc="321541790" seo="true" ref="index:brand:personality">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="personality" alt=""/>
+      <caption webpage="personality" alt=""/>
+    </file>
+    <file name="internationalmap.png" crc="4000135376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="square-patterned-red-u4422.png" crc="3845566742" ref="index"/>
+    <file name="square-patterned-red-u4447.png" crc="361564681" ref="index"/>
+    <file name="square-patterned-red-u4429.png" crc="518415002" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 499x499.jpg" crc="290804710" seo="true" ref="index:opportunity:concept:brand:progress:contact:key-personnel:personality:columbus,-oh">
+      <caption webpage="key-personnel" alt=""/>
+      <caption webpage="concept" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="progress" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="personality" alt=""/>
+      <caption webpage="columbus,-oh" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="graph.png" crc="3832302004" seo="true" ref="opportunity">
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="usa.png" crc="3899906780" seo="true" ref="opportunity">
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="intstudgraph.png" crc="94972474" seo="true" ref="opportunity">
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="origingraph.png" crc="4149038457" seo="true" ref="opportunity">
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="chinagdpgrowth.png" crc="187152262" seo="true" ref="opportunity">
+      <caption webpage="opportunity" alt=""/>
+    </file>
+    <file name="square-patterned-red-u6034.png" crc="166709238" ref="concept"/>
+    <file name="square-patterned-red-u6040.png" crc="78672626" ref="concept"/>
+    <file name="square-patterned-red.png" crc="177897962" seo="true" ref="brand">
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="square-patterned-blueandred.png" crc="4257043882" seo="true" ref="brand">
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="square-patterned-red240x192.png" crc="390185401" seo="true" ref="brand">
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="brand" alt=""/>
+    </file>
+    <file name="4.jpg" crc="521939007" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="progress"/>
+    <file name="5.jpg" crc="17596377" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3946747890" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3996231295" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="8.jpg" crc="279866160" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4004789705" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="10-crop-u5830.jpg" crc="3809780949" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="11-crop-u5839.jpg" crc="4281541283" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="12-crop-u5848.jpg" crc="249856337" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="13-crop-u5857.jpg" crc="169885009" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="4-crop-u5779.jpg" crc="4007493030" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="5-crop-u5788.jpg" crc="114946243" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="6-crop-u5797.jpg" crc="186609110" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="7-crop-u5806.jpg" crc="127040328" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="8-crop-u5815.jpg" crc="3927059286" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="9-crop-u5824.jpg" crc="3960533548" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="10-crop-u5833.jpg" crc="4177380933" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="1161x45.jpg" crc="401195524" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="1261x45.jpg" crc="3964107498" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="1361x45.jpg" crc="332445557" seo="true" ref="progress">
+      <caption webpage="progress" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="progress"/>
+    <file name="square-patterned-red178x143.png" crc="4147865885" seo="true" ref="personality">
+      <caption webpage="personality" alt=""/>
+    </file>
+    <file name="square-patterned-red85x68.png" crc="494953681" seo="true" ref="personality">
+      <caption webpage="personality" alt=""/>
+    </file>
+    <file name="pasted image 1660x787.jpg" crc="3877874550" seo="true" ref="personality">
+      <caption webpage="personality" alt=""/>
+    </file>
+    <file name="internationalmap194x203.png" crc="412688033" seo="true" ref="columbus,-oh">
+      <caption webpage="columbus,-oh" alt=""/>
+    </file>
+    <file name="destinationmap.png" crc="4072891974" seo="true" ref="columbus,-oh">
+      <caption webpage="columbus,-oh" alt=""/>
+    </file>
+    <file name="ohiooutline.png" crc="3835843387" seo="true" ref="columbus,-oh">
+      <caption webpage="columbus,-oh" alt=""/>
+    </file>
+    <file name="pasted image 944x946.jpg" crc="3957839289" seo="true" ref="columbus,-oh">
+      <caption webpage="columbus,-oh" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="photos.css" crc="4191035247" ref="tablet>photos"/>
+      <file name="brand.css" crc="4191035247" ref="tablet>brand"/>
+      <file name="concept.css" crc="4191035247" ref="tablet>concept"/>
+      <file name="columbus.css" crc="4191035247" ref="tablet>columbus"/>
+      <file name="points-of-difference.css" crc="4191035247" ref="tablet>points-of-difference"/>
+      <file name="videos.css" crc="4191035247" ref="tablet>videos"/>
+      <file name="personality.css" crc="4191035247" ref="tablet>personality"/>
+      <file name="request-info.css" crc="4191035247" ref="tablet>request-info"/>
+      <file name="progress.css" crc="4191035247" ref="tablet>progress"/>
+      <file name="key-personnel.css" crc="4191035247" ref="tablet>key-personnel"/>
+      <file name="overview.css" crc="4191035247" ref="tablet>overview"/>
+      <file name="index.css" crc="315114820" ref="tablet>index"/>
+      <file name="get-involved.css" crc="4191035247" ref="tablet>get-involved"/>
+      <file name="contact.css" crc="4191035247" ref="tablet>contact"/>
+      <file name="identity.css" crc="4191035247" ref="tablet>identity"/>
+      <file name="opportunity.css" crc="4191035247" ref="tablet>opportunity"/>
+      <file name="related-media.css" crc="4191035247" ref="tablet>related-media"/>
+      <file name="home.css" crc="4191035247" ref="tablet>home"/>
+    </folder>
+    <file name="index.html" crc="3922821568" seo="true" mt="1391014416164" redirect="false"/>
+    <file name="home.html" crc="4198056057" seo="true" mt="1391014416158" redirect="false"/>
+    <file name="opportunity.html" crc="3816537508" seo="true" mt="1390954919715" redirect="false"/>
+    <file name="related-media.html" crc="131096715" seo="true" mt="1391014627066" redirect="false"/>
+    <file name="concept.html" crc="4079055699" seo="true" mt="1390954919793" redirect="false"/>
+    <file name="overview.html" crc="3910907406" seo="true" mt="1391003126150" redirect="false"/>
+    <file name="points-of-difference.html" crc="246337519" seo="true" mt="1391003129992" redirect="false"/>
+    <file name="brand.html" crc="3796780111" seo="true" mt="1390954919917" redirect="false"/>
+    <file name="identity.html" crc="4232862512" seo="true" mt="1390998921290" redirect="false"/>
+    <file name="personality.html" crc="4211481299" seo="true" mt="1390954919998" redirect="false"/>
+    <file name="key-personnel.html" crc="3868318127" seo="true" mt="1390954920043" redirect="false"/>
+    <file name="progress.html" crc="3990392349" seo="true" mt="1390954920085" redirect="false"/>
+    <file name="columbus.html" crc="109431637" seo="true" mt="1391002550959" redirect="false"/>
+    <file name="photos.html" crc="4062496667" seo="true" mt="1391002554826" redirect="false"/>
+    <file name="videos.html" crc="93934215" seo="true" mt="1391002557638" redirect="false"/>
+    <file name="contact.html" crc="4119217143" seo="true" mt="1390954920291" redirect="false"/>
+    <file name="request-info.html" crc="3799772593" seo="true" mt="1391002561142" redirect="false"/>
+    <file name="get-involved.html" crc="3960153329" seo="true" mt="1391002563846" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="40128616" seo="true" mt="1550126428595" redirect="true"/>
+  <file name="opportunity.html" crc="3810406255" seo="true" mt="1550126428595" redirect="true"/>
+  <file name="concept.html" crc="104228463" seo="true" mt="1550126428608" redirect="true"/>
+  <file name="brand.html" crc="109059557" seo="true" mt="1550126428615" redirect="true"/>
+  <file name="progress.html" crc="65219620" seo="true" mt="1550126428622" redirect="true"/>
+  <file name="contact.html" crc="236252395" seo="true" mt="1550126428625" redirect="true"/>
+  <file name="key-personnel.html" crc="4101618999" seo="true" mt="1550126428595" redirect="true"/>
+  <file name="personality.html" crc="7443896" seo="true" mt="1550126428631" redirect="true"/>
+  <file name="columbus,-oh.html" crc="343358138" seo="true" mt="1550126428642" redirect="true"/>
+</manifest>
